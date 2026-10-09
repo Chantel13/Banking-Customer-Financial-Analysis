@@ -56,6 +56,8 @@ The findings were translated into business implications and recommendations rath
 
 ### Strong Deposits and Digital Banking
 
+<img src="digital-banking.png" width="600">
+
 Customer accounts hold approximately **R62.3 million**, with savings accounts contributing around **R31.1 million (50%)**.
 
 The Mobile App was also the strongest transaction channel, generating approximately **R6.6 million** in transaction value.
