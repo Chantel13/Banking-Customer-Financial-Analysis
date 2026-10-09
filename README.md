@@ -74,6 +74,33 @@ The bank could use loan-type and seasonal demand patterns to improve lending cam
 
 ### Repayment Risk
 
+```sql
+WITH LoanRisk AS
+(
+SELECT
+    L.LoanType,
+    COUNT(*) AS TotalPayments,
+    SUM(
+        CASE
+            WHEN LP.PaymentStatus IN ('Late', 'Missed')
+            THEN 1
+            ELSE 0
+        END
+            ) AS RiskPayments
+FROM Loans AS L
+    JOIN LoanPayments AS LP
+        ON L.LoanID = LP.LoanID
+GROUP BY L.LoanType
+)
+SELECT
+    LoanType,
+    TotalPayments,
+    RiskPayments,
+    RiskPayments * 1.0 / TotalPayments * 100 AS RiskPercentage
+FROM LoanRisk
+ORDER BY RiskPercentage DESC;
+```
+
 Approximately **81.8% of payments were made on time**, while **13.6% were late and 4.7% were missed**.
 
 This means approximately **18.2% of payments were not made on time**, creating a meaningful area for credit-risk monitoring.
