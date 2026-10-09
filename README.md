@@ -118,6 +118,8 @@ Cape Town has the highest total account balance at approximately **R7.0 million*
 
 However, the cities with the highest loan demand are different.
 
+<img src="lending-behaviour-by-city.png" width="600">
+
 Kimberley has the highest loan value at approximately **R18.4 million**, followed by Polokwane at approximately **R17.5 million** and East London at approximately **R17.4 million**.
 
 **Business action:**
