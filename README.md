@@ -133,7 +133,7 @@ Further analysis could investigate:
 
 ## Dashboard Preview
 
-![Banking Dashboard](Banking-Dashboard.png)
+<img src="Banking$Dashboard.png" width="600">
 
 ---
 
