@@ -1,4 +1,4 @@
-# Banking Customer & Financial Analysis
+# Banking Customer and Financial Analysis
 
 **SQL | Excel | Data Cleaning | Data Analysis | Business Reporting**
 
@@ -40,7 +40,7 @@ I performed data-quality checks before analysis, including identifying and remov
 
 SQL was used to analyse customer, account, transaction, loan and loan-payment data using aggregations, grouping and segmentation to identify key business patterns.
 
-### Excel Analysis & Dashboard
+### Excel Analysis and Dashboard
 
 Excel was used to connect information across tables using **XLOOKUP**, allowing related customer, account, transaction and loan information to be brought together for analysis and visualisation.
 
@@ -52,9 +52,9 @@ The findings were translated into business implications and recommendations rath
 
 ---
 
-## Key Findings & Business Actions
+## Key Findings and Business Actions
 
-### Strong Deposits & Digital Banking
+### Strong Deposits and Digital Banking
 
 Customer accounts hold approximately **R62.3 million**, with savings accounts contributing around **R31.1 million (50%)**.
 
@@ -118,6 +118,7 @@ Further analysis could investigate:
 - Digital adoption by customer segment
 - Relationships between income, employment and repayment behaviour
 - More detailed geographic lending and deposit patterns
+- Create an interactive dashboard using Power BI
 
 ---
 
