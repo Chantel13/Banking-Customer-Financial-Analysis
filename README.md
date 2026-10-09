@@ -133,7 +133,7 @@ Further analysis could investigate:
 
 ## Dashboard Preview
 
-<img src="Banking%Dashboard.png" width="600">
+<img src="Banking%20Dashboard.png" width="600">
 
 ---
 
