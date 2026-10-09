@@ -112,12 +112,22 @@ This means approximately **18.2% of payments were not made on time**, creating a
 **Business action:**  
 Early-warning indicators, payment reminders and more targeted monitoring could help identify customers experiencing repayment difficulties sooner.
 
-### Geographic Differences
+### Deposit and Lending Behaviour Differ Across Cities
 
-Account balances and loan demand varied across cities. For example, **Cape Town had the highest account balance**, while **Kimberley had the highest loan value**.
+Cape Town has the highest total account balance at approximately **R7.0 million**, followed by Pretoria and Mbombela at approximately R6.6 million each.
 
-**Business action:**  
-The bank could use these differences to target deposit, investment and lending products according to local customer behaviour rather than applying the same strategy across every market.
+However, the cities with the highest loan demand are different.
+
+Kimberley has the highest loan value at approximately **R18.4 million**, followed by Polokwane at approximately **R17.5 million** and East London at approximately **R17.4 million**.
+
+**Business action:**
+
+This suggests that the bank should avoid applying the same strategy across every geographic market.
+For example:
+- Higher-deposit markets could be targeted for savings, investment and premium products.
+- Higher-loan-demand markets could receive more focused lending strategies.
+- Lower-balance markets could be investigated further before being considered weaker markets.
+This could help the bank allocate marketing and customer-engagement resources more effectively.
 
 ---
 
