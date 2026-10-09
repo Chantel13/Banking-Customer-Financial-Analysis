@@ -65,6 +65,8 @@ The bank could use its strong deposit base and digital channels to promote inves
 
 ### Lending Demand
 
+<img src="lending-demand.png" width="600">
+
 The bank processed **900 loan applications** worth approximately **R153.7 million**. Personal loans represented the largest lending category at approximately **R51.3 million**.
 
 Loan demand also varied throughout the year, with June recording the highest monthly loan value at approximately **R21.5 million**.
