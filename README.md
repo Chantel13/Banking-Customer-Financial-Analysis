@@ -65,6 +65,15 @@ The Mobile App was also the strongest transaction channel, generating approximat
 **Business action:**  
 The bank could use its strong deposit base and digital channels to promote investment, savings and personalised products while shifting more routine activity towards lower-cost digital channels.
 
+Digital channels could support:
+- Self-service banking
+- Personalised product recommendations
+- Payment reminders
+- Targeted savings and lending offers
+- Lower-cost customer communication
+
+The lower level of branch transaction activity also creates an opportunity to focus branch resources on higher-value services such as financial advice, lending, and relationship management.
+
 ### Lending Demand
 
 <img src="lending-demand.png" width="600">
@@ -111,6 +120,8 @@ This means approximately **18.2% of payments were not made on time**, creating a
 
 **Business action:**  
 Early-warning indicators, payment reminders and more targeted monitoring could help identify customers experiencing repayment difficulties sooner.
+The bank should also investigate whether repayment problems are concentrated within particular loan types, cities, employment groups or income bands.
+This would allow risk management to become more targeted rather than applying the same approach to every borrower.
 
 ### Deposit and Lending Behaviour Differ Across Cities
 
